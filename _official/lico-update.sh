@@ -13,7 +13,7 @@
 lico_script_version="0.0.4"
 lico_script_name="lico-update.sh"
 
-apiurl="http://api.linuxcounter.net/v1"
+apiurl="https://api.linuxcounter.net/v1"
 
 #==============================================================================
 
